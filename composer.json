@@ -3,7 +3,7 @@
     "description": "Booking calendar tool for Nova.",
     "license": "MIT",
     "require": {
-        "php": "^7.4"
+        "php": "~8.0"
     },
     "autoload": {
         "psr-4": {
